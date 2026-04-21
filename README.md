@@ -9,7 +9,7 @@ Welcome to the **Enneagram Personality Test**! This project is a simple, fast, a
 * **Responsive Design:** A clean, minimalistic, and easy-to-read interface suitable for both mobile phones and desktop computers.
 
 ## 🚀 How to Take the Test
-1. Visit the live website here: **[]**
+1. Visit the live website here: **[https://mgogga-mm.github.io/mgogga-enneagram-test/]**
 2. Read each question carefully and select the option that best describes you.
 3. Scroll to the bottom and click the **"ရလဒ် အဖြေကို တွက်ချက်မည်"** (Calculate Result) button.
 4. Instantly discover your dominant Enneagram personality type!
